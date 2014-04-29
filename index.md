@@ -1,4 +1,4 @@
 About
 =====
 
-This is an MDwiki seed project. Edit the files to adopt to your website or wiki style.
+This is a user wiki for pjrc.com / Teensy related products.
