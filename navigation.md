@@ -15,6 +15,3 @@
 
 <!-- show a theme chooser in the menu bar -->
 [gimmick:ThemeChooser](Change theme)
-
-<!-- show a fork me on github ribbon -->
-[gimmick:forkmeongithub](http://github.com/Dynalon/mdwiki-seed/)
