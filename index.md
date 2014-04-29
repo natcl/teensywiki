@@ -1,6 +1,6 @@
 # Home
 
-This is a user wiki for pjrc.com / Teensy related products.
+This is a user wiki for [pjrc.com](http://pjrc.com) / Teensy related products.
 
 ## Contributing
 
