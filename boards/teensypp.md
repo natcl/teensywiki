@@ -1,4 +1,4 @@
-Teesny++ 2.0
+Teensy++ 2.0
 =======
 <!-- ![](https://www.pjrc.com/store/tpp_main.jpg) -->
 <img src="https://www.pjrc.com/store/tpp_main.jpg" width="250px" />
