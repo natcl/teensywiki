@@ -4,11 +4,10 @@
 [Page2](page2.md)
 [Page3](page3.md)
 
-[SubMenuName]()
+[Pinouts]()
 
-  * [SubPage1](subpage/page1.md)
-  * [SubPage2](subpage/page2.md)
-  * [SubPage3](subpage/page3.md)
+  * [Teensy 3.0](pinouts/teensy30.md)
+  * [Teensy 3.1](pinouts/teensy31.md)
 
 <!-- set a default theme -->
 [gimmick:theme (inverse: false)](bootstrap)
