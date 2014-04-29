@@ -4,7 +4,7 @@
 
 [Are lock bits supported? Can I run T3.1 at 72 MHz?](http://forum.pjrc.com/threads/25407-...ll=1#post44401)
 
-[Can I use Teensy in a commercial product?](http://forum.pjrc.com/threads/799-Fi...ull=1#post1783)[Link 2](http://forum.pjrc.com/threads/24063-...ll=1#post34451)
+[Can I use Teensy in a commercial product?](http://forum.pjrc.com/threads/799-Fi...ull=1#post1783) [Link 2](http://forum.pjrc.com/threads/24063-...ll=1#post34451)
 
 [Where are the Teensy pinouts?](http://www.pjrc.com/teensy/pinout.html)
 
