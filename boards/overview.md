@@ -1,4 +1,4 @@
-There are currently 4 Teensy Boards available:
+There are currently 4 Teensy boards available:
 
   | Board | Architecture | Chip | Clock (MHz) | Flash | RAM | EEPROM |
   |-------|:------------:|:----:|:-----------:|:-----:|:---:|:------:|
