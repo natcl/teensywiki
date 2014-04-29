@@ -1,8 +1,6 @@
 # TeensyWiki
 
 [FAQ](faq.md)
-[Page2](page2.md)
-[Page3](page3.md)
 
 [Pinouts]()
 
